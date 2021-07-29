@@ -1,6 +1,6 @@
 # NUBIA FERREIRA - WEB FULLSTACK DEV
 
-#### 💻 Main stack - Spring/Angular
+#### 💻 Spring/Angular
 #### 🎓 Generation Brasil
 #### 📍 São Paulo
 #### ✅ #opentowork
