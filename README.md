@@ -1,4 +1,6 @@
-# Hi, I'm Nubia! Web fullstack dev <3
+# NUBIA FERREIRA - WEB FULLSTACK DEV
+#### 💻 Currently attending Generation Brasil - Working with: Java/Spring
+#### 📍 São Paulo - Brasil
 
  <div>
   <a href="https://github.com/rafaballerini">
@@ -21,8 +23,7 @@
   <div>  	
   <a href = "mailto:nubiaferrsvd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nubia-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/nubiaferr/nubiaferr/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
 
