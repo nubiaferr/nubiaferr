@@ -1,6 +1,6 @@
-# NUBIA FERREIRA - WEB FULLSTACK DEV
+# NUBIA FERREIRA - WEB DEV FULLSTACK
 
-#### 💻 Spring/Angular
+#### 💻 Spring/Angular/ReactJS
 #### 🎓 Generation Brasil
 #### 📍 São Paulo
 #### ✅ #opentowork
@@ -16,6 +16,7 @@
     <img align="center" height="30" width="30" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-thumbnail.png">
       <img align="center" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
     <img align="center" height="30" width="30" src="https://e7.pngegg.com/pngimages/620/322/png-clipart-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-angle-triangle-thumbnail.png">
+   <img align="center" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
