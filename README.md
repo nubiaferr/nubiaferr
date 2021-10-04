@@ -3,7 +3,6 @@
 #### 💻 Spring/Angular/ReactJS
 #### 🎓 Generation Brasil
 #### 📍 São Paulo
-#### ✅ #opentowork
 
  <div>
   <a href="https://github.com/nubiaferr">
