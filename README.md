@@ -1,4 +1,4 @@
-# NUBIA FERREIRA - WEB DEV FULLSTACK
+# NUBIA FERREIRA - FRONT END JR
 
 #### 💻 Spring/Angular/ReactJS
 #### 🎓 Generation Brasil
