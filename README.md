@@ -1,6 +1,6 @@
 # NUBIA FERREIRA - FRONT END JR
 
-#### 💻 Spring/Angular/ReactJS
+#### 💻 ReactJS
 #### 🎓 Generation Brasil
 #### 📍 São Paulo
 
