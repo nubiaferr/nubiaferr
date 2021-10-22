@@ -1,7 +1,8 @@
-# NUBIA FERREIRA - FRONT END JR
+# NUBIA FERREIRA - FRONT END DEV
 
-#### 💻 ReactJS
+#### 💻 ReactJS | TypeScript
 #### 🎓 Generation Brasil
+####  🏢 Housi
 #### 📍 São Paulo
 
  <div>
