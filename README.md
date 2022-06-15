@@ -2,7 +2,7 @@
 
 #### 💻 ReactJS | TypeScript
 #### 🎓 Generation Brasil
-####  🏢 Housi && Sirius Education
+####  🏢 Housi & Sirius Education
 #### 📍 São Paulo
 
  <div>
