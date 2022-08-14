@@ -1,8 +1,9 @@
-# NUBIA FERREIRA - FRONT END DEV
+# NUBIA FERREIRA - Software Developer
 
-#### 💻 ReactJS | TypeScript
+#### 💻 Mobile Android | Kotlin 
+#### 💻 Front End | ReactJS 
 #### 🎓 Generation Brasil
-####  🏢 Housi & Sirius Education
+####  🏢 Mercado Livre & Sirius Education
 #### 📍 São Paulo
 
  <div>
